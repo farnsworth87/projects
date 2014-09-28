@@ -7,7 +7,7 @@ This is my first try at github
 
 My Github user page is at: https://github.com/farnsworth87
 
-My Github Pages repo can be foudn at: http://farnsworth87.github.io/projects/
+My Github Pages repo can be found at: http://farnsworth87.github.io/projects/
 
 Currently i am building a new chamber of understanding
 
